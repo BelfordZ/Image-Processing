@@ -1,0 +1,1 @@
+This repo holds a few image processing programs written using C++ and netPBM library.

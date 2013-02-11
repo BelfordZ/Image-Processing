@@ -1,0 +1,4 @@
+<?php
+var $exec_string = "motionblur lenna.pgm out.pgm 0.01 0.01 1";
+echo (exec($exec_string));
+?>
